@@ -1,2 +1,4 @@
 var answer = prompt("Please enter your name", "")
-alert (answer)
+console.log (answer)
+var array1 = []
+array1.push (answer)
