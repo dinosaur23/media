@@ -2,4 +2,4 @@ var answer = prompt("Please enter your name", "")
 console.log (answer)
 var array1 = []
 array1.push (answer)
-new Text({text: () => "array1: " + array1})
+array1.length
